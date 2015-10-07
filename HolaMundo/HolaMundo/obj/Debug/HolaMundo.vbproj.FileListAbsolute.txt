@@ -18,3 +18,6 @@ C:\Users\Angel\Documents\GitHub\HolaMundo\HolaMundo\HolaMundo\bin\Debug\HolaMund
 C:\Users\Angel\Documents\GitHub\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Form1.resources
 C:\Users\Angel\Documents\GitHub\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Resources.resources
 C:\Users\Angel\Documents\GitHub\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.vbproj.GenerateResource.Cache
+C:\Users\Angel\Documents\GitHub\HolaMundo\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.CodeAnalysisLog.xml
+C:\Users\Angel\Documents\GitHub\HolaMundo\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.lastcodeanalysissucceeded
+C:\Users\Angel\Documents\GitHub\HolaMundo\HolaMundo\HolaMundo\obj\Debug\HolaMundo.vbprojResolveAssemblyReference.cache
