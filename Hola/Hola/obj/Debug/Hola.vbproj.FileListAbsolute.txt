@@ -1,0 +1,11 @@
+C:\Users\Angel\AppData\Local\Temporary Projects\Hola\bin\Debug\Hola.exe.config
+C:\Users\Angel\Documents\GitHub\HolaMundo\Hola\Hola\bin\Debug\Hola.exe.config
+C:\Users\Angel\Documents\GitHub\HolaMundo\Hola\Hola\bin\Debug\Hola.exe
+C:\Users\Angel\Documents\GitHub\HolaMundo\Hola\Hola\bin\Debug\Hola.pdb
+C:\Users\Angel\Documents\GitHub\HolaMundo\Hola\Hola\bin\Debug\Hola.xml
+C:\Users\Angel\Documents\GitHub\HolaMundo\Hola\Hola\obj\Debug\Hola.Form1.resources
+C:\Users\Angel\Documents\GitHub\HolaMundo\Hola\Hola\obj\Debug\Hola.Resources.resources
+C:\Users\Angel\Documents\GitHub\HolaMundo\Hola\Hola\obj\Debug\Hola.vbproj.GenerateResource.Cache
+C:\Users\Angel\Documents\GitHub\HolaMundo\Hola\Hola\obj\Debug\Hola.exe
+C:\Users\Angel\Documents\GitHub\HolaMundo\Hola\Hola\obj\Debug\Hola.xml
+C:\Users\Angel\Documents\GitHub\HolaMundo\Hola\Hola\obj\Debug\Hola.pdb
